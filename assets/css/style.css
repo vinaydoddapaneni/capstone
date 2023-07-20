@@ -1,0 +1,7 @@
+img{
+    border-radius: 20px;
+}
+img:hover{
+    height: 220px;
+    transition: 2s;
+}
